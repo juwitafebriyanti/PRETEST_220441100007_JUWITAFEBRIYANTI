@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'D:/Kuliah/Praktikum/Semester 3/PRETEST_220441100007_JUWITAFEBRIYANTI/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Kuliah/Praktikum/Semester 3/PRETEST_220441100007_JUWITAFEBRIYANTI/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PRETEST_220441100007_JUWITAFEBRIYANTI 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PRETEST_220441100007_JUWITAFEBRIYANTI 1.0-SNAPSHOT API'
+pretest
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\src\main\java = 1697762372904
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\allclasses-index.html = 1697764181735
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\allpackages-index.html = 1697764181796
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\copy.svg = 1697764182045
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\element-list = 1697764180457
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\help-doc.html = 1697764182012
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\index-all.html = 1697764181923
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\index.html = 1697764181938
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\jquery-ui.overrides.css = 1697764182124
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\member-search-index.js = 1697764181874
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\module-search-index.js = 1697764181811
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\overview-tree.html = 1697764181584
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\package-search-index.js = 1697764181811
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\script.js = 1697764182045
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\search-page.js = 1697764182059
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\search.html = 1697764181923
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\search.js = 1697764182059
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\serialized-form.html = 1697764181251
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\stylesheet.css = 1697764182045
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\tag-search-index.js = 1697764181874
+D:\Kuliah\Praktikum\Semester 3\PRETEST_220441100007_JUWITAFEBRIYANTI\target\site\apidocs\type-search-index.js = 1697764181827
